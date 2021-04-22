@@ -1,0 +1,14 @@
+.container {
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logo h1 {
+  font-weight: 400;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #000;
+}
